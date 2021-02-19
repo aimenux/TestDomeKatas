@@ -19,5 +19,7 @@ Some katas from test dome website
 >
 > :writing_hand: `TrainCompositionKata`
 >
+> :writing_hand: `ParagraphKata`
+>
 
 **`Tools`** : vs19, net 5.0, nunit, fluentassertions, benchmarkdotnet
