@@ -10,6 +10,7 @@ namespace TestDomeKatasBenchs
             {
                 typeof(SortedSearchBench),
                 typeof(TrainCompositionBench),
+                typeof(ParagraphKataBench),
             };
 
             var switcher = new BenchmarkSwitcher(benchmarks);
