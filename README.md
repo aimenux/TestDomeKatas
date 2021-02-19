@@ -9,7 +9,7 @@ Some katas from test dome website
 >
 > :one: `TestDomeKatas` : a class library containing kata description & proposed solution
 >
-> :two: `TestDomeKatasTests` : an xunit test project in order to verify proposed solution
+> :two: `TestDomeKatasTests` : an nunit test project in order to verify proposed solution
 >
 > :three: `TestDomeKatasBenchs` : a console app project in order to bench proposed solution
 >
@@ -20,4 +20,4 @@ Some katas from test dome website
 > :writing_hand: `TrainCompositionKata`
 >
 
-**`Tools`** : vs19, net 5.0, xunit, fluentassertions, benchmarkdotnet
+**`Tools`** : vs19, net 5.0, nunit, fluentassertions, benchmarkdotnet
